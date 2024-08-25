@@ -1,5 +1,5 @@
 1. 資料清洗 -[NLP with Disaster Tweets - cleaning data](https://www.kaggle.com/datasets/vbmokin/nlp-with-disaster-tweets-cleaning-data)
-2. 顧客輪廓分析 -[IBM Watson Marketing Customer Value Data](https://www.kaggle.com/datasets/pankajjsh06/ibm-watson-marketing-customer-value-data)
+2. 顧客輪廓分析 - 可參考[利用集群分析掌握消費者輪廓](https://medium.com/finformation%E7%95%B6%E7%A8%8B%E5%BC%8F%E9%81%87%E4%B8%8A%E8%B2%A1%E5%8B%99%E9%87%91%E8%9E%8D/%E5%88%A9%E7%94%A8%E9%9B%86%E7%BE%A4%E5%88%86%E6%9E%90%E6%8E%8C%E6%8F%A1%E6%B6%88%E8%B2%BB%E8%80%85%E8%BC%AA%E5%BB%93-python%E5%AF%A6%E4%BD%9C-%E4%B8%80-7086082fbb2e)
 3. 顧客分群 -[E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 4. 會員資料的應用與分析 -[Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/code)
 5. 會員資料的洞察與歸戶整理 -[Customer Personality Analysis](https://github.com/g-aditi/customer-personality-analysis?tab=readme-ov-file)
